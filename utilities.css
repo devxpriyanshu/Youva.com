@@ -1,0 +1,31 @@
+.flex-all-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    padding: 4px 12px;
+    font-family: "Quicksand", sans-serif;
+    color: white;
+    background-color: var(--main-bg-color);
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+hr{
+    width:100%;
+    text-align: center;
+    margin: 0 0 0 -1px;
+}
+.my-1{
+    padding: 10px ;
+    font-family: "Quicksand", sans-serif;
+}
+.lines{
+    text-align: center;
+    margin: auto
+}
+.lines p{
+    padding: 5px;
+}
